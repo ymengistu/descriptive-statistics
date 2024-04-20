@@ -1,6 +1,6 @@
 
 
-#  Create a Correlation Matrix in R (4 Examples)  --------------------------
+# Rcode to  Create a Correlation Matrix in R (4 Examples)  --------------------------
 
 # A correlation matrix is a square table that shows the correlation coefficients
 # between variables in a dataset.
